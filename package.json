@@ -1,7 +1,7 @@
 {
-  "name": "roblox-webhook-proxy",
+  "name": "roblox-proxy-v3",
   "version": "1.0.0",
-  "description": "Intermediario para ocultar webhooks de Roblox",
+  "description": "Proxy seguro para Roblox con token v3",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
